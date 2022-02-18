@@ -4,9 +4,9 @@
 	"Patronymic":"Aleksandrovich",
 	"Age":33,
 	"Pets":"none",
-	"Future salary": {
+	"Future salary": [
 				{"junior":"700$"},
 				{"middle":"1500$"},
 				{"senior":"2100$"}
-			 }
+			 ]
 }
