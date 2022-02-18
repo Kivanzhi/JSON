@@ -1,5 +1,5 @@
 {
-        "Skill on the courses": [
+        "Skills on the courses": [
 					{"1.":"Basic theory (What is testing, bug reports, documentation, types, methods, testing 						directions, etc.) SDLC, STLC."},
 					{"2.":"What is the client-server architecture."},
 					{"3.":"HTTP methods of requests to the server."},
